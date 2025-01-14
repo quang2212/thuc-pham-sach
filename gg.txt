@@ -1,0 +1,1 @@
+                    <a class="btn btn-danger btn-sm" href="{{ route('get.login.social', ['social' => 'google']) }}">Đăng nhập với Google+</a><br>
